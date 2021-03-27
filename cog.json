@@ -1,0 +1,7 @@
+{
+    "id": "test-cog",
+    "description": "A test cog to help validate cog-server behavior",
+    "tags": ["cog", "test"],
+    "port": 11223,
+    "log": "test.log"
+}
